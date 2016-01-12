@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 import objects.Grid;
-
+// Test comment to see if eclipse will work like this
 public class TextPlayer {
 
 	private static int _base;
