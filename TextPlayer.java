@@ -56,17 +56,14 @@ public class TextPlayer {
 	}
 
 	private static void leftCommand() {
-		// TODO Auto-generated method stub
-		
+		_board.moveLeft();
 	}
 
 	private static void upCommand() {
-		// TODO Auto-generated method stub
-		
+		_board.moveUp();
 	}
 
 	private static void rightCommand() {
-		// TODO Auto-generated method stub
 		
 	}
 
